@@ -1,0 +1,3 @@
+name: azure-minecraft-server
+runtime: nodejs
+description: A Minecraft server deployed in Azure
